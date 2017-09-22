@@ -1,0 +1,17 @@
+{
+  "name": "api_timestamp",
+  "version": "1.0.0",
+  "description": "FCC backend challenge, API that takes a date or unix code and returns json with both",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "nodemon": "^1.12.1"
+  }
+}
